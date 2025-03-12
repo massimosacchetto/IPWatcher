@@ -12,3 +12,4 @@ C:\Users\A011119\source\repos\IPWatcher\obj\Debug\net8.0\refint\IPWatcher.dll
 C:\Users\A011119\source\repos\IPWatcher\obj\Debug\net8.0\IPWatcher.pdb
 C:\Users\A011119\source\repos\IPWatcher\obj\Debug\net8.0\IPWatcher.genruntimeconfig.cache
 C:\Users\A011119\source\repos\IPWatcher\obj\Debug\net8.0\ref\IPWatcher.dll
+C:\Users\A011119\Source\Repos\IPWatcher\obj\Debug\net8.0\IPWatcher.sourcelink.json

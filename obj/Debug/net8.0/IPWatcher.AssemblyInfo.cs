@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IPWatcher")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c9ff5c2d0564947555e5a51513a7a77fc8cd0c1")]
 [assembly: System.Reflection.AssemblyProductAttribute("IPWatcher")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IPWatcher")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

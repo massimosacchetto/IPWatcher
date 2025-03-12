@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+	<settings>
+		<checkInterval>1000</checkInterval>
+		<url>https://www.google.com</url>
+	</settings>
+</configuration>

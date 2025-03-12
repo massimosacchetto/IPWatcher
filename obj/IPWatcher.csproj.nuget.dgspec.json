@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\A011119\\source\\repos\\IPWatcher\\IPWatcher.csproj": {}
+    "C:\\Users\\A011119\\Source\\Repos\\IPWatcher\\IPWatcher.csproj": {}
   },
   "projects": {
-    "C:\\Users\\A011119\\source\\repos\\IPWatcher\\IPWatcher.csproj": {
+    "C:\\Users\\A011119\\Source\\Repos\\IPWatcher\\IPWatcher.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\A011119\\source\\repos\\IPWatcher\\IPWatcher.csproj",
+        "projectUniqueName": "C:\\Users\\A011119\\Source\\Repos\\IPWatcher\\IPWatcher.csproj",
         "projectName": "IPWatcher",
-        "projectPath": "C:\\Users\\A011119\\source\\repos\\IPWatcher\\IPWatcher.csproj",
+        "projectPath": "C:\\Users\\A011119\\Source\\Repos\\IPWatcher\\IPWatcher.csproj",
         "packagesPath": "C:\\Users\\A011119\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\A011119\\source\\repos\\IPWatcher\\obj\\",
+        "outputPath": "C:\\Users\\A011119\\Source\\Repos\\IPWatcher\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

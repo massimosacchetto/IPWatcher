@@ -1,0 +1,14 @@
+C:\Users\A011119\source\repos\IPWatcher\bin\Debug\net8.0\IPWatcher.exe
+C:\Users\A011119\source\repos\IPWatcher\bin\Debug\net8.0\IPWatcher.deps.json
+C:\Users\A011119\source\repos\IPWatcher\bin\Debug\net8.0\IPWatcher.runtimeconfig.json
+C:\Users\A011119\source\repos\IPWatcher\bin\Debug\net8.0\IPWatcher.dll
+C:\Users\A011119\source\repos\IPWatcher\bin\Debug\net8.0\IPWatcher.pdb
+C:\Users\A011119\source\repos\IPWatcher\obj\Debug\net8.0\IPWatcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A011119\source\repos\IPWatcher\obj\Debug\net8.0\IPWatcher.AssemblyInfoInputs.cache
+C:\Users\A011119\source\repos\IPWatcher\obj\Debug\net8.0\IPWatcher.AssemblyInfo.cs
+C:\Users\A011119\source\repos\IPWatcher\obj\Debug\net8.0\IPWatcher.csproj.CoreCompileInputs.cache
+C:\Users\A011119\source\repos\IPWatcher\obj\Debug\net8.0\IPWatcher.dll
+C:\Users\A011119\source\repos\IPWatcher\obj\Debug\net8.0\refint\IPWatcher.dll
+C:\Users\A011119\source\repos\IPWatcher\obj\Debug\net8.0\IPWatcher.pdb
+C:\Users\A011119\source\repos\IPWatcher\obj\Debug\net8.0\IPWatcher.genruntimeconfig.cache
+C:\Users\A011119\source\repos\IPWatcher\obj\Debug\net8.0\ref\IPWatcher.dll

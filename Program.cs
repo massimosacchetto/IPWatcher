@@ -19,7 +19,7 @@ public class Program
         Console.WriteLine($"Write by Massimo Sacchetto/2025");
 
         // Read configuration from XML file
-        (int checkInterval, string url) = ReadConfiguration("config.xml");
+        (int checkInterval, string url, string subnet) = ReadConfiguration("config.xml");
         Console.WriteLine($"checkInterval: {checkInterval}");
         Console.WriteLine($"URL: {url}");
         string previousIP = GetLocalIPAddress();

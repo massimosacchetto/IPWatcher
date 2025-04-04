@@ -25,6 +25,9 @@ public class Program
         string previousIP = GetLocalIPAddress();
         Console.WriteLine($"IP Address: {previousIP}");
 
+        string IPZ = LoadNetworkInterfacesData();
+        /*
+
         while (true)
         {
             string currentIP = GetLocalIPAddress();
